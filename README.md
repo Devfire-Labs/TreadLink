@@ -1,8 +1,6 @@
-# TreadLink
+# treadlink
 
-[![forthebadge](https://forthebadge.com/images/featured/featured-gluten-free.svg)](https://forthebadge.com)
-[![forthebadge](https://forthebadge.com/images/featured/featured-uses-badges.svg)](https://forthebadge.com)
-[![forthebadge](https://forthebadge.com/images/badges/made-with-flutter.svg)](https://forthebadge.com)
+A new Flutter project.
 
 ## Getting Started
 
